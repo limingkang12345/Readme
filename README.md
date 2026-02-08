@@ -1,2 +1,2 @@
-# -Readme
-My name is Limingkang(李明康).I am eleven years old(11岁).
+# Readme
+My name is Li Mingkang. I was born in 2010.
